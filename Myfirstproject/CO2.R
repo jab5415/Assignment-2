@@ -1,0 +1,6 @@
+data <- read.csv("CO2copy.csv", header=TRUE)
+class(data)
+nrow(data)
+ncol(data)
+names(data)
+head(data)
